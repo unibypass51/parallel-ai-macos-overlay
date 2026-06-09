@@ -1,4 +1,4 @@
-# lockdown-browser-bypass-macos
+# Parallel
 
 <div align="center">
 
@@ -15,8 +15,6 @@ Lavora più velocemente, studia senza interruzioni e accedi alle tue piattaforme
 ## 📖 Descrizione
 
 Parallel nasce dall'esigenza di semplificare il flusso di lavoro di studenti, professionisti e utenti che utilizzano quotidianamente strumenti di intelligenza artificiale.
-
-Durante lo studio o il lavoro, passare continuamente tra browser, documenti, PDF, piattaforme universitarie e assistenti AI può rallentare notevolmente la produttività.
 
 Parallel risolve questo problema attraverso un sistema di overlay intelligente che consente di avere sempre a disposizione gli strumenti necessari senza interrompere ciò che si sta facendo.
 
