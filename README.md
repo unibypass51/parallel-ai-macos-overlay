@@ -1,6 +1,5 @@
-<div align="center">
 # Parallel
-</div>
+
 
 <div align="center">
 
