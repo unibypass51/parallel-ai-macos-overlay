@@ -1,216 +1,236 @@
-# 🔓 Parallel AI — Lockdown Browser Bypass
-
+# ⚡ Parallel AI — Intelligent macOS Overlay
 
 <div align="center">
 
-### 🚀 Overlay intelligente per macOS
+### 🚀 Smart AI Overlay for macOS
 
-Lavora più velocemente, studia senza interruzioni e accedi alle tue piattaforme AI preferite direttamente dal desktop.
+Work faster, study more efficiently, and access your favorite AI platforms directly from your desktop without interrupting your workflow.
 
-**Parallel** è un'applicazione progettata per macOS che permette di utilizzare strumenti di intelligenza artificiale, acquisire testo, effettuare screenshot e gestire contenuti senza dover cambiare continuamente finestra o utilizzare un secondo dispositivo.
+**Parallel AI** is a lightweight macOS productivity tool designed to help users capture text, take screenshots, and interact with AI platforms quickly through a clean floating overlay.
 
 </div>
 
 ---
+
 <div align="center">
-## 📥 Accesso al Programma
 
-Parallel AI non è distribuito pubblicamente tramite GitHub.
+## 📥 Program Access
 
-Per ricevere informazioni, aggiornamenti e ottenere l'accesso al software, entra nel gruppo Telegram ufficiale:
+Parallel AI is not publicly distributed through GitHub.
 
-### 🚀 Gruppo Ufficiale
+To receive updates, information, and access details, join the official Telegram group:
+
+### 🚀 Official Group
 
 👉 https://t.me/+_lqqqdBnB7g3NmU1
 
-All'interno del gruppo troverai:
+Inside the group you will find:
 
-📢 Aggiornamenti
-🆕 Nuove funzionalità
-💻 Informazioni sui software disponibili
-⭐ Recensioni degli utenti
-🛠 Assistenza e supporto
+📢 Updates
+🆕 New features
+💻 Software information
+⭐ User reviews
+🛠 Assistance and support
 
 ---
 
-## 📞 Supporto
+## 📞 Support
 
-Per qualsiasi informazione:
+For any information:
 
 👤 Mario Uni
 
 Telegram: @mariouni_51
+
 </div>
 
-## 📖 Descrizione
+---
 
-Parallel nasce dall'esigenza di semplificare il flusso di lavoro di studenti, professionisti e utenti che utilizzano quotidianamente strumenti di intelligenza artificiale.
+## 📖 Description
 
-Parallel risolve questo problema attraverso un sistema di overlay intelligente che consente di avere sempre a disposizione gli strumenti necessari senza interrompere ciò che si sta facendo.
+Parallel AI was created to simplify the workflow of students, professionals, and users who rely on artificial intelligence tools every day.
 
-L'obiettivo è offrire un'esperienza semplice, veloce e immediata, permettendo all'utente di concentrarsi esclusivamente sul proprio lavoro.
+The application provides a smart overlay system that allows users to access essential tools without interrupting what they are currently doing.
+
+The goal is to deliver a simple, fast, and seamless experience, helping users stay focused on their work.
 
 ---
 
-## ✨ Funzionalità principali
+## ✨ Main Features
 
-### 🖥️ Overlay intelligente
+### 🖥️ Smart Overlay
 
-Parallel può essere mantenuto sopra qualsiasi finestra, consentendo un accesso immediato agli strumenti disponibili.
+Parallel AI can stay above other windows, giving users instant access to the available tools.
 
-- Sempre visibile
-- Non interrompe il lavoro
-- Interfaccia minimale
-- Ottimizzato per la produttività
-
----
-
-### 🤖 Integrazione AI
-
-Accedi rapidamente alle principali piattaforme di intelligenza artificiale.
-
-Supporto per:
-
-- ChatGPT
-- Gemini
-- Grok
-- DeepSeek
-
-L'utente può scegliere la piattaforma preferita e utilizzarla senza dover aprire manualmente nuove schede o finestre.
+* Always visible
+* Non-intrusive interface
+* Minimal design
+* Optimized for productivity
+* Designed for macOS workflows
 
 ---
 
-### 📝 Rilevamento testo
+### 🤖 AI Integration
 
-Parallel consente di acquisire testo direttamente da qualsiasi area dello schermo.
+Quickly access the most popular artificial intelligence platforms.
 
-Ideale per:
+Supported platforms:
 
-- PDF
-- Documenti
-- Pagine web
-- Slide
-- Materiale universitario
-- Immagini contenenti testo
+* ChatGPT
+* Gemini
+* Grok
+* DeepSeek
 
----
-
-### 📸 Screenshot integrati
-
-Cattura rapidamente qualsiasi parte dello schermo.
-
-Funzioni disponibili:
-
-- Screenshot area selezionata
-- Screenshot finestra
-- Copia immediata
-- Invio rapido agli assistenti AI
+Users can select their preferred AI platform and open it without manually switching between multiple tabs or windows.
 
 ---
 
-### ⚡ Accesso rapido
+### 📝 Text Detection
 
-Riduci il numero di passaggi necessari per svolgere le attività quotidiane.
+Parallel AI allows users to capture text directly from any area of the screen.
 
-Con pochi clic puoi:
+Ideal for:
 
-- Aprire una piattaforma AI
-- Acquisire testo
-- Effettuare screenshot
-- Analizzare contenuti
-- Ottenere spiegazioni immediate
-
----
-
-## ⌨️ Scorciatoie
-
-| Scorciatoia | Azione |
-|------------|---------|
-| ⌥ + ⌘ | Apri Parallel AI |
-| ⌥ + T | Acquisizione testo |
-| ⌥ + S | Screenshot |
-
-## 🎓 Utilizzo accademico
-
-Parallel è particolarmente utile per studenti universitari che necessitano di:
-
-- Comprendere argomenti complessi
-- Ottenere spiegazioni dettagliate
-- Velocizzare lo studio
+* PDF files
+* Documents
+* Web pages
+* Slides
+* Study material
+* Images containing text
 
 ---
 
-## 💼 Utilizzo professionale
+### 📸 Built-in Screenshots
 
-Parallel può essere utilizzato anche in contesti lavorativi per:
+Capture any part of your screen quickly and easily.
 
-- Analisi documentale
-- Supporto alla scrittura
-- Ricerca rapida
-- Revisione contenuti
-- Gestione informazioni
-- Aumento della produttività
+Available options:
 
----
-
-## 🎯 Obiettivi del progetto
-
-Parallel è stato sviluppato con tre obiettivi principali:
-
-### 1. Semplificare
-
-Ridurre il numero di operazioni necessarie per accedere agli strumenti più utilizzati.
-
-### 2. Migliorare la produttività
-
-Consentire all'utente di rimanere concentrato sulla propria attività principale.
+* Selected area screenshot
+* Window screenshot
+* Instant copy
+* Fast sharing with AI assistants
 
 ---
 
-## 🍎 Compatibilità
+### ⚡ Quick Access
 
-### Sistema operativo supportato
+Reduce the number of steps required to complete everyday tasks.
 
-- macOS 13 Ventura o superiore
-- macOS Sonoma
-- macOS Sequoia
+With just a few clicks, you can:
 
-### Architetture supportate
+* Open an AI platform
+* Capture text
+* Take screenshots
+* Analyze content
+* Get instant explanations
+* Improve your productivity
 
-- Apple Silicon (M1, M2, M3, M4)
-- Intel Mac
+---
+
+## ⌨️ Shortcuts
+
+| Shortcut | Action           |
+| -------- | ---------------- |
+| ⌥ + ⌘    | Open Parallel AI |
+| ⌥ + T    | Capture text     |
+| ⌥ + S    | Take screenshot  |
+
+---
+
+## 🎓 Academic Use
+
+Parallel AI is especially useful for university students who need to:
+
+* Understand complex topics
+* Get detailed explanations
+* Speed up their study workflow
+* Organize learning material
+* Analyze documents and slides
+
+---
+
+## 💼 Professional Use
+
+Parallel AI can also be used in professional environments for:
+
+* Document analysis
+* Writing support
+* Quick research
+* Content review
+* Information management
+* Productivity improvement
+
+---
+
+## 🎯 Project Goals
+
+Parallel AI was developed with three main goals:
+
+### 1. Simplify
+
+Reduce the number of steps needed to access frequently used AI tools.
+
+### 2. Improve Productivity
+
+Help users stay focused on their main activity while keeping useful tools always available.
+
+### 3. Create a Seamless Workflow
+
+Provide a smooth desktop experience where AI tools, screenshots, and text capture are always within reach.
+
+---
+
+## 🍎 Compatibility
+
+### Supported Operating Systems
+
+* macOS 13 Ventura or later
+* macOS Sonoma
+* macOS Sequoia
+
+### Supported Architectures
+
+* Apple Silicon Macs: M1, M2, M3, M4
+* Intel Macs
 
 ---
 
 ## 🔒 Privacy
 
-Parallel non memorizza i dati acquisiti senza il consenso dell'utente.
+Parallel AI does not store captured data without the user's consent.
 
-L'utente mantiene il controllo completo delle informazioni elaborate durante l'utilizzo dell'applicazione.
+Users remain in full control of the information processed while using the application.
+
+---
+
+## ✅ Responsible Use
+
+Parallel AI is intended for productivity, accessibility, studying, research, and workflow improvement.
+
+Users are responsible for using the software in accordance with applicable laws, platform rules, school policies, workplace policies, and terms of service.
 
 ---
 
 ## 🚀 Roadmap
 
-Funzionalità previste per le prossime versioni:
+Planned features for future versions:
 
-- Modalità compatta avanzata
-- Più integrazioni AI
-- Cronologia attività
-- Personalizzazione dell'interfaccia
-- Scorciatoie globali avanzate
-- Supporto multi-monitor migliorato
-- Automazioni personalizzate
-
----
+* Advanced compact mode
+* More AI integrations
+* Activity history
+* Interface customization
+* Advanced global shortcuts
+* Improved multi-monitor support
+* Custom automations
 
 ---
 
 <div align="center">
 
-### Parallel
+### Parallel AI
 
-**Sovrapponi. Lavora. Semplifica.**
+**Overlay. Work. Simplify.**
 
 Made for macOS 🍎
 
