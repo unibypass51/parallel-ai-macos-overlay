@@ -190,22 +190,6 @@ L'utente mantiene il controllo completo delle informazioni elaborate durante l'u
 
 ---
 
-## 🚀 Roadmap
-
-Funzionalità previste per le prossime versioni:
-
-- Modalità compatta avanzata
-- Più integrazioni AI
-- Cronologia attività
-- Personalizzazione dell'interfaccia
-- Scorciatoie globali avanzate
-- Supporto multi-monitor migliorato
-- Automazioni personalizzate
-
----
-
----
-
 <div align="center">
 
 ### Parallel
