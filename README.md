@@ -212,20 +212,6 @@ Users are responsible for using the software in accordance with applicable laws,
 
 ---
 
-## 🚀 Roadmap
-
-Planned features for future versions:
-
-* Advanced compact mode
-* More AI integrations
-* Activity history
-* Interface customization
-* Advanced global shortcuts
-* Improved multi-monitor support
-* Custom automations
-
----
-
 <div align="center">
 
 ### Parallel AI
