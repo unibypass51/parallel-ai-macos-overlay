@@ -192,7 +192,7 @@ Provide a smooth desktop experience where AI tools, screenshots, and text captur
 
 ### Supported Architectures
 
-* Apple Silicon Macs: M1, M2, M3, M4
+* Apple Silicon Macs: M1, M2, M3, M4...
 * Intel Macs
 
 ---
