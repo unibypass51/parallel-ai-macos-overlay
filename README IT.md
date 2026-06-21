@@ -129,6 +129,7 @@ Con pochi clic puoi:
 | ⌥ + ⌘ | Apri Parallel AI |
 | ⌥ + T | Acquisizione testo |
 | ⌥ + S | Screenshot |
+| ⌥ + B | Trasparenza finestra |
 
 ## 🎓 Utilizzo accademico
 
@@ -199,7 +200,7 @@ Gli utenti sono responsabili dell’utilizzo del software nel rispetto delle leg
 ---
 <div align="center">
 
-### Parallel
+### Parallel AI
 
 **Sovrapponi. Lavora. Semplifica.**
 
