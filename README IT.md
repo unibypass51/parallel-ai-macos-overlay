@@ -135,7 +135,7 @@ Con pochi clic puoi:
 
 ## 🎓 Utilizzo accademico
 
-Parallel è particolarmente utile per studenti universitari che necessitano di:
+Parallel AI è particolarmente utile per studenti universitari che necessitano di:
 
 - Comprendere argomenti complessi
 - Ottenere spiegazioni dettagliate
