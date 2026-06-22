@@ -7,7 +7,7 @@
 
 Lavora più velocemente, studia senza interruzioni e accedi alle tue piattaforme AI preferite direttamente dal desktop.
 
-**Parallel AI** è un'applicazione progettata per macOS che permette di utilizzare strumenti di intelligenza artificiale, acquisire testo, effettuare screenshot e gestire contenuti senza dover cambiare continuamente finestra o utilizzare un secondo dispositivo.
+**Parallel AI** è un'applicazione progettata per macOS che permette di utilizzare strumenti di intelligenza artificiale, acquisire testo, effettuare screenshot e gestire contenuti.
 
 </div>
 
