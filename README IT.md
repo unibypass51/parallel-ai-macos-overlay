@@ -84,7 +84,7 @@ L'utente può scegliere la piattaforma preferita e utilizzarla senza dover aprir
 
 ### 📝 Rilevamento testo
 
-Parallel consente di acquisire testo direttamente da qualsiasi area dello schermo.
+Parallel AI consente di acquisire testo direttamente da qualsiasi area dello schermo.
 
 Ideale per:
 
