@@ -22,7 +22,7 @@ To receive information, updates, and gain access to the software, join the offic
 
 ### 🚀 Official Group
 
-👉 https://t.me/+_lqqqdBnB7g3NmU1
+👉 https://t.me/+_IqqqdBnB7g3NmU1
 
 Inside the group you will find:
 
