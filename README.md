@@ -1,12 +1,12 @@
-# 🔓 Parallel AI — Lockdown Browser Bypass
+# 🔓 Parallel AI — Smart Overlay Assistant
 
 <div align="center">
 
-### 🚀 Smart Overlay for macOS
+### 🚀 Smart Overlay for macOS and Windows
 
 Work faster, study without interruptions, and access your favorite AI platforms directly from your desktop.
 
-**Parallel AI** is an application designed for macOS that allows you to use artificial intelligence tools, capture text, take screenshots, and manage content.
+**Parallel AI** is an application designed for macOS and Windows that allows you to use artificial intelligence tools, capture text, take screenshots, and manage content through a smart overlay system.
 
 </div>
 
@@ -46,9 +46,9 @@ Telegram: @mariouni_51
 
 ## 📖 Description
 
-Parallel was created to simplify the workflow of students, professionals, and users who rely on artificial intelligence tools every day.
+Parallel AI was created to simplify the workflow of students, professionals, and users who rely on artificial intelligence tools every day.
 
-Parallel solves this problem through a smart overlay system that allows users to always have the tools they need available without interrupting what they are doing.
+Parallel AI solves this problem through a smart overlay system that allows users to always have the tools they need available without interrupting what they are doing.
 
 The goal is to provide a simple, fast, and immediate experience, allowing users to focus entirely on their work.
 
@@ -133,6 +133,8 @@ With just a few clicks, you can:
 | ⌥ + S    | Screenshot          |
 | ⌥ + B    | Window transparency |
 
+---
+
 ## 🎓 Academic Use
 
 Parallel AI is especially useful for university students who need to:
@@ -140,6 +142,8 @@ Parallel AI is especially useful for university students who need to:
 * Understand complex topics
 * Get detailed explanations
 * Speed up their studies
+* Organize study materials
+* Improve learning efficiency
 
 ---
 
@@ -168,21 +172,41 @@ Reduce the number of steps required to access the most commonly used tools.
 
 Allow users to stay focused on their main activity.
 
+### 3. Improve Accessibility
+
+Make AI tools, screenshots, and text capture easier to access during daily work and study sessions.
+
 ---
 
-## 🍎 Compatibility
+## 💻 Compatibility
 
-### Supported Operating System
+### Supported Operating Systems
+
+#### 🍎 macOS
 
 * macOS 12.3 Monterey or later
 * macOS 13 Ventura
 * macOS 14 Sonoma
 * macOS 15 Sequoia
 
+#### 🪟 Windows
+
+* Windows 10 64-bit
+* Windows 11 64-bit
+* Windows 11 Pro
+* Windows 11 ARM via compatible virtualization environments
+
 ### Supported Architectures
+
+#### macOS
 
 * Apple Silicon — M1, M2, M3, M4, etc.
 * Intel Mac
+
+#### Windows
+
+* x64 processors
+* ARM64 processors where supported
 
 ---
 
@@ -208,6 +232,6 @@ Users are responsible for using the software in compliance with applicable laws,
 
 **Overlay. Work. Simplify.**
 
-Made for macOS 🍎
+Made for macOS and Windows 🍎 🪟
 
 </div>
