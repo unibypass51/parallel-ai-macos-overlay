@@ -1,13 +1,12 @@
-# 🔓 Parallel AI — Lockdown Browser Bypass
-
+# 🔓 Parallel AI — Smart Overlay Assistant
 
 <div align="center">
 
-### 🚀 Overlay intelligente per macOS
+### 🚀 Overlay intelligente per macOS e Windows
 
 Lavora più velocemente, studia senza interruzioni e accedi alle tue piattaforme AI preferite direttamente dal desktop.
 
-**Parallel AI** è un'applicazione progettata per macOS che permette di utilizzare strumenti di intelligenza artificiale, acquisire testo, effettuare screenshot e gestire contenuti.
+**Parallel AI** è un'applicazione progettata per macOS e Windows che permette di utilizzare strumenti di intelligenza artificiale, acquisire testo, effettuare screenshot e gestire contenuti tramite un sistema di overlay intelligente.
 
 </div>
 
@@ -42,13 +41,14 @@ Per qualsiasi informazione:
 👤 Mario Uni
 
 Telegram: @mariouni_51
+
 </div>
 
 ## 📖 Descrizione
 
-Parallel nasce dall'esigenza di semplificare il flusso di lavoro di studenti, professionisti e utenti che utilizzano quotidianamente strumenti di intelligenza artificiale.
+Parallel AI nasce dall'esigenza di semplificare il flusso di lavoro di studenti, professionisti e utenti che utilizzano quotidianamente strumenti di intelligenza artificiale.
 
-Parallel risolve questo problema attraverso un sistema di overlay intelligente che consente di avere sempre a disposizione gli strumenti necessari senza interrompere ciò che si sta facendo.
+Parallel AI risolve questo problema attraverso un sistema di overlay intelligente che consente di avere sempre a disposizione gli strumenti necessari senza interrompere ciò che si sta facendo.
 
 L'obiettivo è offrire un'esperienza semplice, veloce e immediata, permettendo all'utente di concentrarsi esclusivamente sul proprio lavoro.
 
@@ -60,10 +60,10 @@ L'obiettivo è offrire un'esperienza semplice, veloce e immediata, permettendo a
 
 Parallel AI può essere mantenuto sopra qualsiasi finestra, consentendo un accesso immediato agli strumenti disponibili.
 
-- Sempre visibile
-- Non interrompe il lavoro
-- Interfaccia minimale
-- Ottimizzato per la produttività
+* Sempre visibile
+* Non interrompe il lavoro
+* Interfaccia minimale
+* Ottimizzato per la produttività
 
 ---
 
@@ -73,10 +73,10 @@ Accedi rapidamente alle principali piattaforme di intelligenza artificiale.
 
 Supporto per:
 
-- ChatGPT
-- Gemini
-- Grok
-- DeepSeek
+* ChatGPT
+* Gemini
+* Grok
+* DeepSeek
 
 L'utente può scegliere la piattaforma preferita e utilizzarla senza dover aprire manualmente nuove schede o finestre.
 
@@ -88,12 +88,12 @@ Parallel AI consente di acquisire testo direttamente da qualsiasi area dello sch
 
 Ideale per:
 
-- PDF
-- Documenti
-- Pagine web
-- Slide
-- Materiale universitario
-- Immagini contenenti testo
+* PDF
+* Documenti
+* Pagine web
+* Slide
+* Materiale universitario
+* Immagini contenenti testo
 
 ---
 
@@ -103,10 +103,10 @@ Cattura rapidamente qualsiasi parte dello schermo.
 
 Funzioni disponibili:
 
-- Screenshot area selezionata
-- Screenshot finestra
-- Copia immediata
-- Invio rapido agli assistenti AI
+* Screenshot area selezionata
+* Screenshot finestra
+* Copia immediata
+* Invio rapido agli assistenti AI
 
 ---
 
@@ -116,30 +116,34 @@ Riduci il numero di passaggi necessari per svolgere le attività quotidiane.
 
 Con pochi clic puoi:
 
-- Aprire una piattaforma AI
-- Acquisire testo
-- Effettuare screenshot
-- Analizzare contenuti
-- Ottenere spiegazioni immediate
+* Aprire una piattaforma AI
+* Acquisire testo
+* Effettuare screenshot
+* Analizzare contenuti
+* Ottenere spiegazioni immediate
 
 ---
 
 ## ⌨️ Scorciatoie
 
-| Scorciatoia | Azione |
-|------------|---------|
-| ⌥ + ⌘ | Apri Parallel AI |
-| ⌥ + T | Acquisizione testo |
-| ⌥ + S | Screenshot |
-| ⌥ + B | Trasparenza finestra |
+| Scorciatoia | Azione               |
+| ----------- | -------------------- |
+| ⌥ + ⌘       | Apri Parallel AI     |
+| ⌥ + T       | Acquisizione testo   |
+| ⌥ + S       | Screenshot           |
+| ⌥ + B       | Trasparenza finestra |
+
+---
 
 ## 🎓 Utilizzo accademico
 
 Parallel AI è particolarmente utile per studenti universitari che necessitano di:
 
-- Comprendere argomenti complessi
-- Ottenere spiegazioni dettagliate
-- Velocizzare lo studio
+* Comprendere argomenti complessi
+* Ottenere spiegazioni dettagliate
+* Velocizzare lo studio
+* Organizzare il materiale universitario
+* Migliorare l'efficienza nello studio
 
 ---
 
@@ -147,12 +151,12 @@ Parallel AI è particolarmente utile per studenti universitari che necessitano d
 
 Parallel AI può essere utilizzato anche in contesti lavorativi per:
 
-- Analisi documentale
-- Supporto alla scrittura
-- Ricerca rapida
-- Revisione contenuti
-- Gestione informazioni
-- Aumento della produttività
+* Analisi documentale
+* Supporto alla scrittura
+* Ricerca rapida
+* Revisione contenuti
+* Gestione informazioni
+* Aumento della produttività
 
 ---
 
@@ -168,20 +172,41 @@ Ridurre il numero di operazioni necessarie per accedere agli strumenti più util
 
 Consentire all'utente di rimanere concentrato sulla propria attività principale.
 
+### 3. Migliorare l'accessibilità
+
+Rendere più semplice l'accesso agli strumenti AI, agli screenshot e all'acquisizione del testo durante lo studio e il lavoro quotidiano.
+
 ---
 
-## 🍎 Compatibilità
+## 💻 Compatibilità
 
-### Sistema operativo supportato
-- macOS 12.3 Monterey o superiore
-- macOS 13 Ventura 
-- macOS 14 Sonoma
-- macOS 15 Sequoia
+### Sistemi operativi supportati
+
+#### 🍎 macOS
+
+* macOS 12.3 Monterey o superiore
+* macOS 13 Ventura
+* macOS 14 Sonoma
+* macOS 15 Sequoia
+
+#### 🪟 Windows
+
+* Windows 10 64-bit
+* Windows 11 64-bit
+* Windows 11 Pro
+* Windows 11 ARM tramite ambienti di virtualizzazione compatibili
 
 ### Architetture supportate
 
-- Apple Silicon (M1, M2, M3, M4...)
-- Intel Mac
+#### macOS
+
+* Apple Silicon — M1, M2, M3, M4, ecc.
+* Intel Mac
+
+#### Windows
+
+* Processori x64
+* Processori ARM64 dove supportati
 
 ---
 
@@ -200,12 +225,13 @@ Parallel AI è pensato per la produttività, l’accessibilità, lo studio, la r
 Gli utenti sono responsabili dell’utilizzo del software nel rispetto delle leggi applicabili, delle regole delle piattaforme, delle politiche scolastiche, delle politiche aziendali e dei termini di servizio.
 
 ---
+
 <div align="center">
 
 ### Parallel AI
 
 **Sovrapponi. Lavora. Semplifica.**
 
-Made for macOS 🍎
+Made for macOS and Windows 🍎 🪟
 
 </div>
